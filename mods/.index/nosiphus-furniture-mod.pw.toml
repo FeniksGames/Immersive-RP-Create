@@ -1,0 +1,16 @@
+filename = 'nfm-2025.09.20a-1.20.1.jar'
+name = 'Nosiphus Furniture Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed76cfb172a370919ebfd0143369fdea37c6fc18'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7015794
+project-id = 593876

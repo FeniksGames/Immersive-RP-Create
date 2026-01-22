@@ -1,0 +1,16 @@
+filename = 'dtrch-1.3.0-forge-1.20.1.jar'
+name = 'Russian Army Uniforms'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '46dab52000400ba22dd1e2f13583841e6fa4c7e2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6733707
+project-id = 1065806

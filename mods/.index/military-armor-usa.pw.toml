@@ -1,0 +1,16 @@
+filename = 'usaarmyarmor-1.6.0-forge-1.20.1.jar'
+name = 'Military armor Russia And USA'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd807e4681ef489e2b935dd616cf7257ec540d024'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6203435
+project-id = 1191175

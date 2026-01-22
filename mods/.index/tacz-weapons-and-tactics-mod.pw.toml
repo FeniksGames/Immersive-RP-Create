@@ -1,0 +1,16 @@
+filename = 'WaT 0.2.2.jar'
+name = 'Ready or Not TaCZ Pack'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8601fac3ecf2967fac305063eeebbc6694074620'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7468722
+project-id = 1411291

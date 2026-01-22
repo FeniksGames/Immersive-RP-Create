@@ -1,0 +1,16 @@
+filename = 'Locks-Unoffical-forge-1.20.1-1.2.4.jar'
+name = 'Locks-Unofficial'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8f36065a705984324ab39107fa6de969a022522'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6115787
+project-id = 1128357

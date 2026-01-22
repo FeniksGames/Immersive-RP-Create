@@ -1,0 +1,16 @@
+filename = 'CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar'
+name = 'CustomNPCs-Unofficial'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'da1eafdfca0800511d90299d06f980b1ef35a47c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7188795
+project-id = 1052708

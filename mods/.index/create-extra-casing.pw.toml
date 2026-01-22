@@ -1,0 +1,16 @@
+filename = 'create_extra_casing-4.0.4-1.20.1-forge.jar'
+name = 'Create: Extra Casing'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c9bcd93492583b91b850443d1f9dfed924a80804'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6944497
+project-id = 1192187

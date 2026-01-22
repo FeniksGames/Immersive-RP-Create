@@ -1,0 +1,16 @@
+filename = 'nef-1.2.0-forge-1.20.1.jar'
+name = 'Not Enough Furniture'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0230724d8f250b880b081e1e98816501b9d61a7a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5521025
+project-id = 982072

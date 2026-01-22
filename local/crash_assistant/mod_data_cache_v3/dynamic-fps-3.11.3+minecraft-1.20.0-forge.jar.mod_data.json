@@ -1,0 +1,1 @@
+{"jarName":"dynamic-fps-3.11.3+minecraft-1.20.0-forge.jar","modId":"dynamic_fps","version":"3.11.3","mixinConfigs":["dynamic_fps-common.mixins.json","dynamic_fps.mixins.json"],"jarJarMods":[{"jarName":"battery-2.0.0.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":804889767,"modrinthHash":"0c191f164b1433dff4e8c95417100a108b3c276b"}

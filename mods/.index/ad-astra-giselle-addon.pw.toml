@@ -1,0 +1,16 @@
+filename = 'Ad-Astra-Giselle-Addon-forge-1.20.1-6.20.jar'
+name = 'Ad Astra: Giselle Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ce565f1dca2cb257b5ff089fc59755c714762424'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6869946
+project-id = 714958
